@@ -12,8 +12,7 @@ A simple command-line TODO list management application. This tool allows users t
 
 1. clone the repo and enter the directory
 ```bash
-https://github.com/igox008/TODO_in_ur_terminal.git
-cd TODO_in_ur_terminal
+git clone https://github.com/igox008/TODO_in_ur_terminal.git && cd TODO_in_ur_terminal
 ```
 
 2. Run the setup script:
