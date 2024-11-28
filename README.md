@@ -17,8 +17,7 @@ git clone https://github.com/igox008/TODO_in_ur_terminal.git && cd TODO_in_ur_te
 
 2. Run the setup script:
 ```bash
-chmod +x setup.sh
-./setup.sh
+chmod +x install.sh && ./install.sh
 ```
 
 The setup script will:
